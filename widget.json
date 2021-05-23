@@ -1,0 +1,6 @@
+{
+	"name": "vaccine-tracker-canada.widget",
+	"description": "A widget that displays a First dose and Second dose percentage in Canada from the api.covid19tracker.ca",
+	"author": "@faisal3389",
+	"email": "afaisal3389@gmail.com"
+}
